@@ -7,4 +7,4 @@
 * Auto-Detect NordVPN Connection
 * Auto-Detect if NordVPN and Discord is open
 * Customize what information you want to appear on Discord
-* Nice UI
+* GunaUI 
